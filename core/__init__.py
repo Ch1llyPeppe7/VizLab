@@ -64,6 +64,9 @@ from .viz_logger import (
     quick_log,
 )
 
+# 通用分析库
+from . import analysis
+
 __version__ = "2.0.0"
 
 __all__ = [

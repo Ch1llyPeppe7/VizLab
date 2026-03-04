@@ -30,6 +30,7 @@ MODULES = {
             "attention":    "pe_analysis.05_attention_patterns",
             "extrapolation":"pe_analysis.06_extrapolation_analysis",
             "information":  "pe_analysis.07_information_theory",
+            "geometry":     "pe_analysis.08_differential_geometry",
         }
     },
     "diff_geometry": {

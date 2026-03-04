@@ -3,3 +3,4 @@ output/
 html/
 *.tex
 *.cfg
+.codemaker
